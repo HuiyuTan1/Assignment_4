@@ -32,7 +32,7 @@ This interpretation will not be graded, but a Github shows the contributors to a
 
 **Question 1.1**: Fill in the __github username__ of the class mate to whose repository you have contributed. 
 
-[Fill in here]
+[http://www.github.com/YanzhenRen]
 
 ### Part 2: Analyzing various linear models
 
@@ -59,7 +59,7 @@ datasummary((growth+rgdp60)*treat~(Mean+Median+sd+Max+min),(data=GrowthSW))
 
 ```
 
-**Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
+**Designated place**: To the both statistics of `growth` and `rgdp60`, the means and medians of them when countries had no revolution happened are greater than the numbers when countries have at least one revolution.
 
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
